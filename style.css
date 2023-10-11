@@ -1,0 +1,47 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body h1{
+    font-size: 75px;
+}
+body{
+    background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+}
+body h6{
+    font-size: 25px;
+}
+.A img{
+    margin: 10px;
+    padding: 10px;
+    padding-right: 20px;
+}
+.A p{
+    color: black;
+    font-style: italic;
+    font-size: large;
+}
+h2{
+    font-size: 40px;
+}
+.B p{
+    font-size: larger;
+}
+.C p{
+    font-size: larger;
+}
+.D p{
+    font-size: large;
+}
+.F p{
+    font-size: large;
+}
+.F h4{
+    font-size: 25px;
+}
+.F h3{
+    font-size: 20px;
+}
+
